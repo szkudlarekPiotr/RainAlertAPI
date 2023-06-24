@@ -25,7 +25,7 @@ weather_params ={
     "lat":loc_lat,
     "lon":loc_long,
     "units":"metric",
-    "cnt":14,
+    "cnt":4,
     "appid":weather_api_key
 }
 
